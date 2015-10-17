@@ -1,6 +1,7 @@
 name: '365'
 favicon: null
-layout_spectrum: 0.7212268935982138
+layout_spectrum: 0.57426
+typography_spectrum: 0.46436
 cta:
   domain: null
   bucket: null
@@ -14,13 +15,17 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#161d23'
+    - '#6a6854'
+    - '#cbc7a0'
+    - '#b1ac83'
+    - '#f7f9e5'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
     item: null
     url: null
-typography_spectrum: 0.09461451461538672
