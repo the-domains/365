@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[365]]></title>
+        <description><![CDATA[365]]></description>
+        <link>https://thegrid.ai/365/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 18 Oct 2015 14:46:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/365/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Day Two]]></title>
+            <description><![CDATA[<article><h1>Day Two</h1><p>Bird with blue sky in background</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f3f5abd-c423-485a-9553-68b8e27d4aea.jpg"></article>]]></description>
+            <link>https://thegrid.ai/365/450b6d9d-7f36-46aa-86ec-a691713169d2/index.html</link>
+            <guid isPermaLink="false">450b6d9d-7f36-46aa-86ec-a691713169d2</guid>
+            <pubDate>Sun, 18 Oct 2015 14:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Day One]]></title>
+            <description><![CDATA[<article><h1>Day One</h1><p>365 2015 - Day 1</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1832684d-0393-4af4-a9b8-0aaac8e4da65.jpg"></article>]]></description>
+            <link>https://thegrid.ai/365/day-one/index.html</link>
+            <guid isPermaLink="false">8c0be4e6-e9f8-4f0f-8869-a9a5f5f15d91</guid>
+            <pubDate>Fri, 16 Oct 2015 13:30:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
