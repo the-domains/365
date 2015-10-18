@@ -1,24 +1,7 @@
-color:
-  brandStrength: 0.625
-  saturation: 0.3125
-  brandColors:
-    - '#161d23'
-    - '#6a6854'
-    - '#cbc7a0'
-    - '#b1ac83'
-    - '#f7f9e5'
-  lightness: 0.625
-  rhythmicContrast: 0.5
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  version: null
-  bucket: null
-  domain: null
+name: '365'
 favicon: null
 layout_spectrum: 0.57426
+typography_spectrum: 0.46436
 collections:
   - index:
       navigable: true
@@ -31,13 +14,30 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose:
-  - item: null
-    name: awareness
-    url: null
-name: '365'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.46436
+color:
+  brandColors:
+    - '#3ea2cf'
+    - '#0f0b06'
+    - '#9ec0ba'
+    - '#c59200'
+    - '#514f3b'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose:
+  - item: null
+    name: awareness
+    url: null
